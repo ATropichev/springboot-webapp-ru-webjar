@@ -63,7 +63,7 @@ export default {
   shortcuts: {
     claimTask: {
       key: 'ctrl+alt+c',
-      description: 'утвердить текущую выбранную задачу'
+      description: 'назначить текущую выбранную задачу'
     },
     focusFilter: {
       key: 'ctrl+shift+f',
